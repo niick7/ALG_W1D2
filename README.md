@@ -26,4 +26,4 @@ Question 2.
 Consider the following functions to determine the relationships that exist among the complexity classes
 they belong.
 
-10, 1, n3, n1/3, log(log n), n2, n1/2, logn, log nn, nk(k > 3), n1/k (k > 3), nlogn, ln n, 2n, 3n, nn, n1/2 logn, n1/3 logn, n!.
+10, 1, n^3, n^1/3, log(log n), n^2, n^1/2, logn, log n^n, n^k(k > 3), n^1/k (k > 3), nlogn, ln n, 2^n, 3^n, n^n, n^1/2 logn, n^1/3 logn, n!.
